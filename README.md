@@ -1,0 +1,2 @@
+# Kaprekar
+Secuencia matematica
