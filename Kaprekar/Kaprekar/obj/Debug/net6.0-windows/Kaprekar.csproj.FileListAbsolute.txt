@@ -1,0 +1,17 @@
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\bin\Debug\net6.0-windows\Kaprekar.exe
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\bin\Debug\net6.0-windows\Kaprekar.deps.json
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\bin\Debug\net6.0-windows\Kaprekar.runtimeconfig.json
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\bin\Debug\net6.0-windows\Kaprekar.dll
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\bin\Debug\net6.0-windows\Kaprekar.pdb
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.csproj.AssemblyReference.cache
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.result_area.resources
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.csproj.GenerateResource.cache
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.AssemblyInfoInputs.cache
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.AssemblyInfo.cs
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.csproj.CoreCompileInputs.cache
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.dll
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\refint\Kaprekar.dll
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.pdb
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\Kaprekar.genruntimeconfig.cache
+C:\Users\PolloGameR\source\repos\Kaprekar\Kaprekar\obj\Debug\net6.0-windows\ref\Kaprekar.dll
